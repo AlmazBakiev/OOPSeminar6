@@ -1,6 +1,7 @@
 package OCP;
 
 public class Vehicle {
+    // Классы Car, Bus созланы для расширения возможностей класса Vehicle и чтобы поведения классов были более разнообразными
     private int maxSpeed;
     private String type;
 
